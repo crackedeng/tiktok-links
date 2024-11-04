@@ -38,7 +38,7 @@ const Hero: React.FC = () => (
     </div>
     <div className='absolute bottom-0 left-0 right-0 flex flex-col items-center justify-center'>
       <h1 className='font-bold text-2xl'>tochi</h1>
-      <h2 className='text-md max-w-xs text-center'>yapper, engineer, entrepreneur with a passion for teaching</h2>
+      <h2 className='text-xl max-w-xs text-center'>yapper, engineer, entrepreneur with a passion for teaching</h2>
     </div>
   </div>
 );
